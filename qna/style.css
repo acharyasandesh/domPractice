@@ -1,0 +1,16 @@
+.question-answer{
+    display: none;
+}
+.question-minus-btn{
+    display: none;
+}
+
+.show-answer{
+    display: block;
+}
+.show-minus-icon{
+    display: inline;
+}
+.hide-plus-icon{
+    display:none;
+}
